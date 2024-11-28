@@ -60,10 +60,10 @@ Retorna a sequência completa até o índice n.
 3. Utilize as funções fibonacci_nth(n) ou fibonacci_c(n) com o valor desejado de n.
 
 ### Exemplo de Uso:
-# Exibe o 9º número da sequência de Fibonacci
+**Exibe o 9º número da sequência de Fibonacci**
 print(fibonacci_nth(9))
 
-# Exibe a sequência completa até o 9º número
+**Exibe a sequência completa até o 9º número**
 print(fibonacci_c(9))
 
 ## Por que Estudar a Sequência de Fibonacci?
