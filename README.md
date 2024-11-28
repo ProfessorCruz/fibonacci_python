@@ -37,7 +37,7 @@ Esta função recebe um número `n` e retorna o n-ésimo número da sequência d
 
 print(fibonacci_nth(9))  # Saída: 34
 
-## Como funciona:
+**Como funciona:**
 
 A função inicializa a sequência com os dois primeiros números [0, 1].
 Em seguida, calcula os próximos números da sequência de forma iterativa até alcançar o n-ésimo número.
@@ -48,7 +48,7 @@ Esta função retorna a sequência completa de Fibonacci até o n-ésimo número
 Exemplo:
 print(fibonacci_c(9))  # Saída: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 
-## Como funciona:
+**Como funciona:**
 
 Inicializa a sequência com [0, 1].
 Calcula iterativamente cada número e o adiciona à lista fib_list.
@@ -61,17 +61,17 @@ Retorna a sequência completa até o índice n.
 
 ### Exemplo de Uso:
 **Exibe o 9º número da sequência de Fibonacci**
-print(fibonacci_nth(9))
+- print(fibonacci_nth(9))
 
 **Exibe a sequência completa até o 9º número**
-print(fibonacci_c(9))
+- print(fibonacci_c(9))
 
 ## Por que Estudar a Sequência de Fibonacci?
 Durante entrevistas técnicas de programação, perguntas sobre a sequência de Fibonacci são frequentes porque ela envolve conceitos essenciais da ciência da computação, como:
 
-- Recursão: A sequência é um exemplo clássico de recursão.
-- Otimização: Como calcular a sequência de forma eficiente, evitando cálculos redundantes (como em soluções recursivas ingênuas).
-- Algoritmos: Como melhorar a eficiência de um algoritmo (como transformar uma solução recursiva em uma solução iterativa ou dinâmica).
+- **Recursão:** A sequência é um exemplo clássico de recursão.
+- **Otimização:** Como calcular a sequência de forma eficiente, evitando cálculos redundantes (como em soluções recursivas ingênuas).
+- **Algoritmos:** Como melhorar a eficiência de um algoritmo (como transformar uma solução recursiva em uma solução iterativa ou dinâmica).
 Saber implementar e otimizar a sequência de Fibonacci é uma habilidade importante para qualquer programador iniciante, e este script é uma maneira simples de entender e testar esse conceito.
 
 ## Contribuições
