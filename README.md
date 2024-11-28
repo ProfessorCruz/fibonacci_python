@@ -34,7 +34,7 @@ A sequência de Fibonacci é amplamente utilizada em diversos campos, como:
 Esta função recebe um número `n` e retorna o n-ésimo número da sequência de Fibonacci.
 
 #### Exemplo:
-```python
+
 print(fibonacci_nth(9))  # Saída: 34
 
 ## Como funciona:
